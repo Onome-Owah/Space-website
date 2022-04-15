@@ -1,0 +1,282 @@
+@media (min-width: 320px) {
+    .bg2{
+        background-image: url(./space-tourism-website-main/space-tourism-website-main/starter-code/assets/destination/background-destination-mobile.jpg);
+        color: white;
+    }
+    
+    .flex{
+        /* display: flex; */
+    }
+    
+    .pick{
+        /* width: 60%; */
+        padding-top: 15%;
+        padding-bottom: 7%;
+        font-family: serif;
+        text-align: center;
+        
+    }
+    
+    
+    .pace{
+        padding-top: 8%;
+        width: 80%;
+    }
+    .mini{
+        /* width: 50%; */
+        text-align: left;
+    }
+    
+    .List{
+        list-style: none;
+        color: white;
+        display:inline-flex;
+        gap: 10%;
+        padding-top: 15%;
+        
+        
+    }
+    
+    .change{
+        text-decoration: none;
+    }
+    
+    
+    .distance{
+        display: flex;
+        /* width: 60%; */
+        text-align: left;
+    
+    }
+    
+    
+    .est{
+        padding-left: 5rem;
+        /* width: 70%; */
+    }
+    
+    .decor{
+        width: 90%;
+        padding-left: 2rem;
+        font-family: serif;
+    }
+    
+    h1{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        font-size: 80px;
+        color: white;
+    }
+    
+    .p{
+        font-size: 18px;
+        color: white;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 425px) {
+    .bg2{
+        background-image: url(./space-tourism-website-main/space-tourism-website-main/starter-code/assets/destination/background-destination-tablet.jpg);
+        color: white;
+    }
+    
+    .flex{
+        /* display: flex; */
+    }
+    
+    .pick{
+        /* width: 60%; */
+        padding-top: 15%;
+        padding-bottom: 7%;
+        font-family: serif;
+        text-align: center;
+        
+    }
+    
+    
+    .pace{
+        padding-top: 8%;
+        width: 80%;
+    }
+    .mini{
+        /* width: 50%; */
+        text-align: left;
+    }
+    
+    .List{
+        list-style: none;
+        color: white;
+        display:inline-flex;
+        gap: 10%;
+        padding-top: 15%;
+        
+        
+    }
+    
+    .change{
+        text-decoration: none;
+    }
+    
+    
+    .distance{
+        display: flex;
+        /* width: 60%; */
+        text-align: left;
+    
+    }
+    
+    
+    .est{
+        padding-left: 5rem;
+        /* width: 70%; */
+    }
+    
+    .decor{
+        width: 90%;
+        padding-left: 2rem;
+        font-family: serif;
+    }
+    
+    h1{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        font-size: 80px;
+        color: white;
+    }
+    
+    .p{
+        font-size: 18px;
+        color: white;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+.bg2{
+    background-image: url(./space-tourism-website-main/space-tourism-website-main/starter-code/assets/destination/background-destination-desktop.jpg);
+    color: white;
+}
+
+.flex{
+    display: flex;
+}
+
+.pick{
+    width: 50%;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    font-family: serif;
+}
+
+
+.pace{
+    padding-top: 8%;
+    width: 60%;
+}
+.mini{
+    width: 50%;
+    text-align: left;
+}
+
+.List{
+    list-style: none;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    display:inline-flex;
+    gap: 20%;
+    padding-top: 30%;
+    
+    
+}
+
+.change{
+    text-decoration: none;
+}
+
+
+.distance{
+    display: flex;
+    width: 60%;
+    text-align: left;
+
+}
+
+
+.est{
+    padding-left: 5rem;
+}
+
+.decor{
+    width: 80%;
+    padding-left: 2rem;
+    font-family: serif;
+}
+
+h1{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 80px;
+    color: white;
+}
+
+.p{
+    font-size: 25px;
+    color: white;
+}
+}

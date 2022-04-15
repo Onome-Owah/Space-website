@@ -1,0 +1,419 @@
+@media (min-width: 320px) {
+
+    .bg1{
+        background-image: url(./space-tourism-website-main/space-tourism-website-main/starter-code/assets/home/background-home-mobile.jpg);
+        background-size: cover;
+        /* margin: auto;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0; */
+    }
+    
+    /* .mynavbar{
+        background: transparent;
+    } */
+    
+    p{
+        color: white;
+        opacity: 0.6;
+    }
+    
+    h6{
+        color: white;
+        opacity: 0.6;
+    }
+    
+    .text{
+        padding-top: 30%;
+        /* padding-bottom: 4%; */
+        width: 100%;
+        color: white;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        font-family:serif;
+    }
+    
+    .space{
+        font-size:60px;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        opacity: 1;
+        letter-spacing:10px;
+    }
+    
+    .all{
+        /* display: flex; */
+    }
+    
+    .circle{
+        font-size: xx-large;
+        /* margin-top: 20rem; */
+        border-radius: 10rem;
+       
+        margin: auto;
+        
+        padding-bottom: 10%;
+        max-width: 200px;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        /* position:relative;
+       
+        
+        
+    
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+       display: flex;      */
+        
+    }
+    
+    .lore{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 200px;
+        width: 200px;
+        background-color: rgb(248, 247, 247);
+        border-radius: 100px;
+        font-size: 1.5rem;
+        cursor: pointer;
+        color: rgb(7, 4, 4);
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1) 3s;
+        font-family: serif;
+        
+    }
+    
+    .circle:hover {
+        transform: scale(1.5);
+        transition-duration: 0.2s;
+    }
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 425px) {
+    .bg1{
+        background-image: url(./space-tourism-website-main/space-tourism-website-main/starter-code/assets/home/background-home-tablet.jpg);
+        background-size: cover;
+    }
+    
+    .mynavbar{
+        background: transparent;
+    }
+    
+    p{
+        color: white;
+        opacity: 0.6;
+    }
+    
+    h6{
+        color: white;
+        opacity: 0.6;
+    }
+    
+    .text{
+        padding-top: 30%;
+        width: 100%;
+        color: white;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        font-family:serif;
+    }
+    
+    .space{
+        font-size:60px;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        opacity: 1;
+        letter-spacing:10px;
+    }
+    
+
+    
+    .circle{
+        font-size: xx-large;
+        margin: auto;
+        border-radius: 10rem;
+        justify-content: center;
+        text-align: center;
+        
+        
+        padding-bottom: 20px;
+        
+    }
+    
+    .lore{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 200px;
+        width: 200px;
+        background-color: rgb(248, 247, 247);
+        border-radius: 100px;
+        font-size: 1.5rem;
+        cursor: pointer;
+        color: rgb(7, 4, 4);
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1) 3s;
+        font-family: serif;
+        
+    }
+    
+    .circle:hover {
+        transform: scale(1.5);
+        transition-duration: 0.2s;
+    }
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) {
+    .bg1{
+        background-image: url(./space-tourism-website-main/space-tourism-website-main/starter-code/assets/home/background-home-tablet.jpg);
+        background-size: cover;
+        
+    }
+    
+    /* .mynavbar{
+        background: transparent;
+    } */
+    
+    p{
+        color: white;
+        opacity: 0.6;
+    }
+    
+    h6{
+        color: white;
+        opacity: 0.6;
+        
+    }
+
+    .so{
+        font-size: 27px;
+    }
+    
+    .text{
+        padding-top: 15%;
+        padding-bottom: 10%;
+        width: 100%;
+        color: white;
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        font-family:serif;
+        font-size: 27px;
+    }
+    
+    .space{
+        font-size:120px;
+        
+        padding-top: 2%;
+        padding-bottom: 2%;
+        opacity: 1;
+        letter-spacing:10px;
+    }
+    
+    .all{
+        /* display: flex; */
+    }
+    
+    .circle{
+        font-size: xx-large;
+        /* margin-top: 20rem; */
+        border-radius: 10rem;
+         /* width: 30%;  */
+        /* margin-right: 5rem; */
+        padding-bottom: 20%;
+        padding-top: 10%;
+        max-width: 200px;
+        
+    }
+    
+    .lore{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 200px;
+        width: 200px;
+        background-color: rgb(248, 247, 247);
+        border-radius: 100px;
+        font-size: 1.5rem;
+        cursor: pointer;
+        color: rgb(7, 4, 4);
+        transition: cubic-bezier(0.075, 0.82, 0.165, 1) 3s;
+        font-family: serif;
+        
+    }
+    
+    .circle:hover {
+        transform: scale(1.5);
+        transition-duration: 0.2s;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1024px) {
+
+.bg1{
+    background-image: url(./space-tourism-website-main/space-tourism-website-main/starter-code/assets/home/background-home-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+p{
+    color: white;
+    opacity: 0.6;
+}
+
+h6{
+    color: white;
+    opacity: 0.6;
+}
+
+.text{
+    padding-top: 15%;
+    /* padding-bottom: 4%; */
+    width: 70%;
+    color: white;
+    text-align: left;
+    /* padding-left: 10%; */
+    font-family:serif;
+}
+
+.space{
+    font-size:100px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    opacity: 1;
+    letter-spacing:10px;
+}
+
+.so{
+    font-size: 24px;
+    
+}
+
+.all{
+    display: flex;
+}
+
+.circle{
+    font-size: xx-large;
+    padding-top: 20%;
+    border-radius: 10rem;
+    /* width: 30%; */
+    /* margin-left: 30%; */
+    
+}
+
+.lore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(248, 247, 247);
+    border-radius: 100px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: rgb(7, 4, 4);
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 3s;
+    font-family: serif;
+}
+
+.circle:hover {
+    transform: scale(1.5);
+    transition-duration: 0.2s;
+}
+
+}

@@ -1,0 +1,39 @@
+.bar{
+   justify-content: space-between;
+   gap: 3rem;
+   text-decoration-style: none;
+   list-style: none;
+   font-family: serif;
+   
+   
+    }
+
+.logo{
+    width: 80%;
+    
+}
+
+.change{
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+
+/* .bar::after{
+    content: "";
+    position: absolute;
+    background-color: white;
+    height: 3px;
+    width: 0;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+    margin-left: 53%;
+}
+
+
+.bar:hover{
+    width: 42%;
+} */
